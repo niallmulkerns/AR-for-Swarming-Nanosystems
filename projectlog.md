@@ -1,5 +1,5 @@
 # Augmented Reality for Swarming Nanosystems
-Property of Niall Mulkerns, Guillermo Monge, Will MacAlester, Xinyi Ma - for research use at the Univeristy of Bristol within the Bristol Centre for Functional Nanomaterials. 
+Property of Niall Mulkerns, Guillermo Monge, Will Macalester, Xinyi Ma - for research use at the Univeristy of Bristol within the Bristol Centre for Functional Nanomaterials. 
 
 *Supervisors: 	Thomas Gorochowski (Biological Sciences) and Sabine Hauert (Mathematics).*
 
