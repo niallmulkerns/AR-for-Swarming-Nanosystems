@@ -7,6 +7,7 @@ Property of Niall Mulkerns, Guillermo Monge, Will MacAlester, Xinyi Ma - for res
 
 - [Project Briefing](#project-briefing)
 - [Objectives](#objectives)
+- [Initial Meeting Notes](#initial-meeting-notes)
 
 ## Project Briefing:
 
@@ -35,3 +36,7 @@ As an initial swarm behaviour, we will explore the creation of trails of micropa
 - Design of a swarm experiment (possibly trail formation) given the selected photo-responsive material.
 - Systematic exploration of the interaction space giving rise to the desired swarm behaviour.
 - Demonstration of a fully autonomous swarm system using augmented reality.
+
+## Initial Meeting Notes:
+
+
