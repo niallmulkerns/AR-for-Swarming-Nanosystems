@@ -41,5 +41,5 @@ As an initial swarm behaviour, we will explore the creation of trails of micropa
 
 - Find particles that are UV (or other wavelength) activated. Something that will adequately immobilise the particle will be best, either by coating with specific substance that will do so or by UV cleavable "tail" that will expose adhesive after laceration. (10/10/2017)
 - Look into tracking software for the microparticles. Options: opencv recognition, ImageJ (though need to look into live capabilities).
-- Some names in the field: Metin Sitti, Brad Nelson, Sylvain Martell, Vijay Kumar. 
+- Some names in the field: **Metin Sitti, Brad Nelson, Sylvain Martell, Vijay Kumar**. 
 
